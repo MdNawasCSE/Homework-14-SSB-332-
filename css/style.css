@@ -1,0 +1,10 @@
+h3{
+  padding-left: 118px;
+}
+
+.box{
+  min-height: 100px;
+  background-color: red;
+  border:1px solid black;
+  margin-bottom: 5px;
+}
